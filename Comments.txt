@@ -1,0 +1,5 @@
+
+The only assets in the project that were not created by me or Epic are Rainbow 2000 and Windpower Fonts.
+Textures (i.e. images) were created by me with Stable Diffusion tools.
+
+The project utilizes the Roboto font that is included within the Engine. These files are renamed copies of the original Roboto font from Engine Content. It was made for simplicity and comfort use.
